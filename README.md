@@ -2,7 +2,7 @@
 
 My name is Amir. Computer Engineering graduate heavily interested in business and financial markets.
 
-![Profile Banner](https://img.shields.io/badge/Data%20Platform%20Engineer-%23007ACC.svg?logo=data&logoColor=white)
+![Profile Banner](https://img.shields.io/badge/Software%20Engineer-%23007ACC.svg?logo=data&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirb75)
 [![Email](https://img.shields.io/badge/Email-amir@amirbwebsolutions.com-red?logo=gmail)](mailto:amir@amirbwebsolutions.com)
 
@@ -12,7 +12,7 @@ My name is Amir. Computer Engineering graduate heavily interested in business an
 
 I'm a **Software Engineer** specializing in Data Platforms, e-commerce growth, digital marketing, and scalable solutions. I thrive at the intersection of software development and business, translating objectives into high-impact, data-driven results.
 
-- 🏢 **Software Engineer, Data Platform** 
+- 🏢 **Software Engineer** 
 - 🛒 **E-commerce & Marketing Consultant** @ [AB Web Solutions](https://github.com/abaker11/amirbsolutionsv2)
 - 🎓 B.S. in Computer Engineering, Illinois Institute of Technology , Master of Science - MS (Non-Degree Coursework), Computer Engineering
 
