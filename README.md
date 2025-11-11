@@ -24,8 +24,7 @@ Learning more about AWS:
 ---
 
 ### 🌟 Featured Projects
-
-## 👷🏼‍♂️I'm currently working on: 
+I'm currently working on: 
 developing applications
 - Medical Transcription Tool to automate Doctor's Notes
 - Stock Swing Trading
