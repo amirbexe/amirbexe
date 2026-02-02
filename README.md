@@ -42,11 +42,5 @@ Favorite Games: CS2, Valorant, Fortnite, League of Legends
 
 ---
 
-### 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/amirb75)
-- Email: [amir@amirbwebsolutions.com](mailto:amir@amirbwebsolutions.com)
----
-
 > _“Translating business goals into scalable solutions is my passion. If you’re building something impactful, let’s connect!”_
 
