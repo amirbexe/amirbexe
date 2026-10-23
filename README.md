@@ -1,21 +1,17 @@
-# 👋 Hi, I'm Amir
-![Profile Banner](https://img.shields.io/badge/Software%20Engineer-%23007ACC.svg?logo=data&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirb75)
-[![Email](https://img.shields.io/badge/Email-amir@amirbwebsolutions.com-red?logo=gmail)](mailto:amir@amirbwebsolutions.com)
+# Amir B
 
----
-
-### 🚀 About Me
-I'm a **Software Engineer** specializing in data platforms, e-commerce growth, digital marketing, and scalable solutions. I work at the intersection of software development and business, translating objectives into high-impact, data-driven results.
+Software Engineer specializing in data platforms, e-commerce growth, digital marketing, and scalable solutions. I work at the intersection of software development and business, translating objectives into high-impact, data-driven results.
 
 I build custom AI agents and deliver ready-to-use, working solutions for businesses.
 
-- 🛒 **E-commerce & Marketing Consultant** @ [AB Web Solutions](https://github.com/abaker11/amirbsolutionsv2)
-- 🎓 B.S. in Computer Engineering, Illinois Institute of Technology · M.S. (non-degree coursework), Computer Engineering
+**E-commerce & Marketing Consultant** — [AB Web Solutions](https://github.com/abaker11/amirbsolutionsv2)
+**Education** — B.S. in Computer Engineering, Illinois Institute of Technology · M.S. (non-degree coursework), Computer Engineering
+
+[LinkedIn](https://www.linkedin.com/in/amirb75) · [amir@amirbwebsolutions.com](mailto:amir@amirbwebsolutions.com) · [amirbwebsolutions.com](https://amirbwebsolutions.com)
 
 ---
 
-### 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Languages:** Python · Java · JavaScript · SQL · HTML · CSS
 **Frameworks/Libraries:** React Native · Node.js · Tailwind
@@ -23,12 +19,11 @@ I build custom AI agents and deliver ready-to-use, working solutions for busines
 **AI Tooling:** Claude · ChatGPT · Claude Code · Gemini CLI · n8n · Agentic AI · Model Context Protocol · Warp Terminal
 **Platforms & Other:** Shopify · Google Ads & Analytics · SEO · PPC · Android Studio · Git · Linux · Vim · Cisco Networking · Database Management
 
-Learning more about AWS: [AWS-Training-Certification](https://github.com/amirbexe/AWS-Training-Certification)
+Currently learning more about AWS: [AWS-Training-Certification](https://github.com/amirbexe/AWS-Training-Certification)
 
 ---
 
-### 🌟 Featured Projects
-I'm currently working on:
+## Featured Projects
 
 - Medical Transcription Tool to automate doctor's notes
 - Stock Swing Trading
@@ -38,14 +33,4 @@ I'm currently working on:
 
 ---
 
-### 🎮 Interests
-Outside of coding and data, you'll find me lifting weights at the gym or gaming with friends.
-
-I believe in the value of a strong mind and body — and the fun of a little competition!
-
-**Weight Lifting PRs:** 405 Bench · 655 Conventional Deadlift · 545 Squat
-**Favorite Games:** CS2 · Valorant · Fortnite · League of Legends
-
----
-
-> *"Translating business goals into scalable solutions is my passion. If you're building something impactful, let's connect!"*
+*Translating business goals into scalable solutions is my passion. If you're building something impactful, let's connect.*
