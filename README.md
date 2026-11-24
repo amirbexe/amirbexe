@@ -5,6 +5,8 @@
 
 
 Weight Lifting PRs: 405 Bench, 655 Conventional Deadlift, 545 Squat
+
+
 Favorite Games: CS2, Valorant, Fortnite, League of Legends
 
 ---
